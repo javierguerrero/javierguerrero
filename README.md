@@ -10,7 +10,7 @@
 
 
 ### My Projects 🔭
-- [BirthdayApp](https://github.com/javierguerrero/BirthdayApp){:target="_blank"}
+- [BirthdayApp](https://github.com/javierguerrero/BirthdayApp)
 
 
 
