@@ -14,7 +14,7 @@
 ### My Projects 🔭
 - [BirthdayApp](https://github.com/javierguerrero/BirthdayApp)
 - [EnglishForDevs](https://github.com/javierguerrero/EnglishForDevs)
-- [Practical Conversations](https://github.com/javierguerrero/PracticalConversations)
+- [Practical English Conversations](https://github.com/javierguerrero/PracticalConversations)
 
 
 <!--
