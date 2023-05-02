@@ -14,7 +14,6 @@
 ### My Projects 🔭
 - [Practical English Conversations](https://github.com/javierguerrero/PracticalConversations)
 - [BirthdayApp](https://github.com/javierguerrero/BirthdayApp)
-- [EnglishForDevs](https://github.com/javierguerrero/EnglishForDevs)
 
 <!--
 **javierguerrero/javierguerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
