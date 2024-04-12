@@ -16,10 +16,8 @@
 
 | Name                                                                                        | Tech stack                                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [BirthdayApp](https://github.com/javierguerrero/BirthdayApp)                                | C#, ASP.NET Core Web API, Azure SQL, Azure Function, Angular |
+| [DevInterview](https://github.com/javierguerrero/devinterview)                              | Back-end(.NET, C#, EF Core, ASP.NET Core, SQL Server, Docker), Front-end (.NET MAUI, React) |
 | [Practical English Conversations](https://github.com/javierguerrero/PracticalConversations) | C#, ASP.NET Core MVC                              |
-| [Employee Attendance Control](https://github.com/javierguerrero/EmployeeAttendanceControl)  | C#, ASP.NET Core Web API, Cassandra, Docker                             |
-
 
 
 
