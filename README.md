@@ -16,7 +16,7 @@
 
 | Name                                                                                        | Tech stack                                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [DevInterview](https://github.com/javierguerrero/devinterview)                              | Back-end(.NET, C#, EF Core, ASP.NET Core, SQL Server, Docker), Front-end (.NET MAUI, React) |
+| [DevInterview](https://github.com/javierguerrero/devinterview)                              | Back-end(.NET, C#, EF Core, ASP.NET Core, SQL Server, Docker), Front-end (.NET MAUI, Angular) |
 | [Practical English Conversations](https://github.com/javierguerrero/PracticalConversations) | C#, ASP.NET Core MVC                              |
 
 
